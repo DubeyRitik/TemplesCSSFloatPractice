@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: azure;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  margin: 20px 0;
+  color: green;
+  font-family: cursive;
+  font-size: 35px;
+}
+.kedarnath img {
+  width: 900px;
+}
+.div0 {
+  width: 900px;
+  margin: 0 auto;
+  background-color: bisque;
+  margin-bottom: 50px;
+}
+
+.puri img {
+  width: 1000px;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.div1 {
+  width: 1200px;
+  margin: 0 auto;
+  /* background-color: bisque; */
+  margin-bottom: 50px;
+}
+
+.badrinath img {
+  width: 575px;
+  height: 300px;
+}
+
+.gangotri img {
+  width: 287.5px;
+  height: 300px;
+}
+
+.yamunotri img {
+  width: 287.5px;
+  height: 300px;
+}
+
+.badrinath {
+  width: 575px;
+  float: left;
+  background-color: bisque;
+}
+
+.gangotri {
+  width: 287.5px;
+  float: left;
+  margin-left: 25px;
+  background-color: bisque;
+}
+
+.yamunotri {
+  width: 287.5px;
+  float: right;
+  background-color: bisque;
+}
+
+.div1::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.div2 {
+  width: 1000px;
+  margin: 0 auto;
+  /* background-color: bisque; */
+  margin-bottom: 50px;
+}
+
+.suntemple {
+  width: 474px;
+  float: left;
+  background-color: bisque;
+}
+
+.angkorwat {
+  width: 499.5px;
+  float: right;
+  margin-left: 10px;
+  background-color: bisque;
+}
+
+.suntemple img {
+  width: 474px;
+  height: 330px;
+}
+
+.angkorwat img {
+  width: 499.5px;
+  height: 330px;
+}
+
+.div2::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.div3 {
+  width: 1200px;
+  /* background-color: bisque; */
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.kashi img {
+  width: 380px;
+  height: 300px;
+}
+
+.puri img {
+  width: 380px;
+  height: 300px;
+}
+.somnath img {
+  width: 380px;
+  height: 300px;
+}
+
+.kashi {
+  width: 380px;
+  float: left;
+  background-color: bisque;
+}
+
+.puri {
+  width: 380px;
+  float: left;
+  margin-left: 30px;
+  background-color: bisque;
+}
+.somnath {
+  width: 380px;
+  float: right;
+  background-color: bisque;
+}
+
+.div3::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.div4 {
+  width: 1000px;
+  /* background-color: bisque; */
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.rameshwaram {
+  width: 485px;
+  float: left;
+  background-color: bisque;
+}
+
+.meenakshi {
+  width: 485px;
+  float: right;
+  margin-left: 30px;
+  background-color: bisque;
+}
+
+.rameshwaram img {
+  width: 485px;
+  height: 330px;
+}
+
+.meenakshi img {
+  width: 485px;
+  height: 330px;
+}
+
+.div4::after {
+  content: "";
+  display: block;
+  clear: both;
+}
